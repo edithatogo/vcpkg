@@ -1,0 +1,12 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata and record the commit
+  or release used.
+title: vcpkg
+authors:
+- name: vcpkg project
+  website: https://github.com/microsoft/vcpkg
+repository-code: https://github.com/edithatogo/vcpkg
+url: https://github.com/edithatogo/vcpkg
+abstract: This repository is a fork of microsoft/vcpkg. The upstream project retains its authorship
+  and attribution. Cite the exact repository revision used.
